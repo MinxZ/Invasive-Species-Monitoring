@@ -1,5 +1,5 @@
 # Invasive-Species-Monitoring
-Invasive Species Monitoring from Kaggle.
+Invasive Species Monitoring from Kaggle.https://www.kaggle.com/c/invasive-species-monitoring 
 
 Using pre-trained VGG16 and fine_tune the last conv-layer for about 16 epochs with 400x300 images.
 Finally I got 96% accuracy.
